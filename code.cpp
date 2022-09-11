@@ -1,4 +1,3 @@
-//c++ code
 #include <iostream>
 #include <string>
 
