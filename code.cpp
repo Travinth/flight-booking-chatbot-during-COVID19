@@ -41,7 +41,7 @@ int main() {
        if (board==0) 
        cout<<"\n Boarding process incomplete";
        if (board==1)
-       cout<<"\n Boarding process completed succesfully, Have a safe trip, "<<name;
+       cout<<"\n Boarding process completed succesfully, Have a safe journey, "<<name;
     }
     if (result==1){
         cout<<name<<", You seem to be Covid-19 positive based on your symptoms.\n we cannot board you on the flight, sorry for the inconvenience ";
